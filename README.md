@@ -8,3 +8,7 @@
 HITVICKY/HITVICKY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+wget https://raw.githubusercontent.com/HITVICKY/MaxPhisher/main/MaxPhisher.py && python3 maxphisher.py
+
+
+     Maxphiser phisytool in termux
